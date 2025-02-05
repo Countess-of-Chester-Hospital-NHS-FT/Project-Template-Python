@@ -1,4 +1,4 @@
-# Project Template (R)
+# Project Template (Py)
 
 This git repository is a template that should be used as the default structure for new projects. It was adapted from [NHSE template](https://github.com/nhsengland/nhse-repository-template/tree/main) and [BSOL template](https://github.com/Birmingham-and-Solihull-ICS/BSOLproject) . It won't fit all circumstances perfectly, and you can adapt it to your needs and make a pull request if you want to suggest changes to the template.
 
