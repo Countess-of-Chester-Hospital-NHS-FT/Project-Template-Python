@@ -1,10 +1,5 @@
-# Exclude default R data formats and R studio files that may accidentally save your data.
-.Rproj.user
-.Rhistory
-.Rdata
-.httr-oauth
-.DS_Store
-.quarto
+# Exclude default Py data formats and Py files that may accidentally save your data.
+__pycache__/
 
 # Exclude the following directories 
 /data/
@@ -20,3 +15,4 @@
 *.csv
 *.pdf
 *.svg
+*.html
