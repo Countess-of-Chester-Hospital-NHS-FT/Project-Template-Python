@@ -1,5 +1,6 @@
-# Exclude default Py data formats and Py files that may accidentally save your data.
+# Exclude default Py data formats and Py files that may accidentally save your data or don't require version control
 __pycache__/
+*.pyc
 
 # Exclude the following directories 
 /data/
