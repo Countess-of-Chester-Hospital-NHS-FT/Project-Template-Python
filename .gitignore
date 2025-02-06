@@ -19,4 +19,14 @@ __pycache__/
 
 # Exclude output file types
 *.html
+
+# Jupyter Notebook
+.ipynb_checkpoints
 *.ipynb
+
+### Windows specific stuff ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
